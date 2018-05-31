@@ -1,0 +1,318 @@
+.main-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px
+}
+.style-0 {
+  background-color: #24414e;
+  border-left: 2px solid #24414e;
+  border-right: 2px solid #24414e;
+  border-top: 2px solid #24414e;
+  border-bottom: 2px solid #24414e;
+  display: flex;
+  margin-left: 0;
+  margin-top: 2px;
+  width: 1200px;
+  height: 84px;
+  flex-direction: column;
+  justify-content: center
+}
+.User_Jobs-container-0-row-0 {
+  display: flex;
+  margin-left: 11px;
+  width: 1126px;
+  height: 57px;
+  align-items: center
+}
+.style-2,
+.style-3 {
+  color: #fff;
+  font-family: BalsamiqSans,serif;
+  font-size: 2.5em;
+  margin-left: 0;
+  height: 100%
+}
+.style-3 {
+  font-size: 1.1875em;
+  margin-left: 843px;
+  height: 33px
+}
+.User_Jobs-row-1 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 1200px;
+  height: 459px;
+  align-items: stretch
+}
+.User_Jobs-row-1-column-1,
+.style-1 {
+  display: flex;
+  margin-left: 0;
+  flex-direction: column
+}
+.style-1 {
+  background-color: #f7ce3e;
+  border-left: 2px solid #f7ce3e;
+  border-right: 2px solid #f7ce3e;
+  border-top: 2px solid #f7ce3e;
+  border-bottom: 2px solid #f7ce3e;
+  width: 141px
+}
+.User_Jobs-row-1-column-1 {
+  position: relative;
+  width: 1045px
+}
+.style-6 {
+  background-color: #fff;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  box-shadow: 82px 82px 0 0 #000;
+  display: flex;
+  margin-left: 319px;
+  margin-top: 0;
+  width: 466px;
+  height: 41px;
+  align-items: stretch;
+  flex-direction: column;
+  flex-shrink: 0;
+  justify-content: center
+}
+.style-7 {
+  text-align: center;
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  height: 21px
+}
+.style-8 {
+  background-color: #fff;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  box-shadow: 82px 82px 0 0 #000;
+  position: relative;
+  display: flex;
+  margin-left: 785px;
+  margin-top: 0;
+  width: 279px;
+  height: 41px;
+  align-items: stretch;
+  flex-direction: column;
+  flex-shrink: 0;
+  justify-content: center
+}
+.style-9 {
+  text-align: center;
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  height: 21px
+}
+.style-10 {
+  background-color: #c5c1c0;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  display: flex;
+  margin-top: 11px;
+  width: 100%;
+  height: 177px;
+  align-self: stretch;
+  flex-direction: column;
+  flex-shrink: 0
+}
+.User_Jobs-row-1-column-1-container-2-row-0 {
+  display: flex;
+  margin-left: 9px;
+  margin-top: 11px;
+  width: 1012px;
+  height: 41px;
+  align-items: stretch
+}
+.style-12 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.625em;
+  text-decoration: underline solid #000;
+  margin-left: 0
+}
+.style-11 {
+  background-color: #fff;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  display: flex;
+  margin-top: 0;
+  width: 1023px;
+  height: 107px;
+  align-self: center;
+  flex-direction: column
+}
+.User_Jobs-row-1-column-1-container-2-container-3-row-0 {
+  display: flex;
+  margin-top: 8px;
+  width: 999px;
+  height: 33px;
+  align-items: stretch;
+  align-self: center
+}
+.style-13 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  text-decoration: underline solid #000;
+  margin-left: 0
+}
+.style-14 {
+  position: relative
+}
+.style-14,
+.style-15 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  text-decoration: underline solid #000;
+  margin-left: 21px;
+  margin-top: 0;
+  height: 33px
+}
+.style-16 {
+  background-color: #c5c1c0;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  display: flex;
+  margin-top: 14px;
+  width: 100%;
+  height: 171px;
+  align-self: stretch;
+  flex-direction: column;
+  flex-shrink: 0
+}
+.User_Jobs-row-1-column-1-container-4-row-0 {
+  display: flex;
+  margin-left: 9px;
+  margin-top: 9px;
+  width: 1012px;
+  height: 41px;
+  align-items: stretch
+}
+.style-18 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.625em;
+  text-decoration: underline solid #000;
+  margin-left: 0
+}
+.style-17 {
+  background-color: #fff;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  position: relative;
+  display: flex;
+  margin-top: 3px;
+  width: 1025px;
+  height: 98px;
+  align-self: center;
+  flex-direction: column
+}
+.style-19 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  text-decoration: underline solid #000;
+  margin-left: 13px;
+  margin-top: 14px;
+  height: 33px;
+  flex-shrink: 0
+}
+.User_Jobs-row-1-column-1-container-4-container-5-row-1 {
+  position: relative;
+  display: flex;
+  margin-top: 0;
+  width: 1007px;
+  height: 33px;
+  align-items: stretch;
+  align-self: center;
+  flex-shrink: 0
+}
+.style-20,
+.style-21 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  text-decoration: underline solid #000;
+  position: relative;
+  margin-left: 0
+}
+.style-21 {
+  margin-left: 9px;
+  margin-top: 0;
+  height: 33px;
+  flex-shrink: 0
+}
+.User_Jobs-row-1-column-1-row-3 {
+  display: flex;
+  margin-top: 0;
+  width: 974px;
+  height: 41px;
+  align-items: stretch;
+  flex-shrink: 0
+}
+.style-22,
+.style-24 {
+  font-family: BalsamiqSans,serif
+}
+.style-22 {
+  text-decoration: underline solid #000;
+  font-size: 1.625em;
+  margin-left: 0
+}
+.style-24 {
+  color: #2b78e4;
+  font-size: .9375em;
+  margin-left: 14px
+}
+.style-23,
+.style-25,
+.style-26 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.625em
+}
+.style-23 {
+  text-decoration: underline solid #000;
+  margin-left: 163px
+}
+.style-25,
+.style-26 {
+  color: #00000a;
+  margin-left: 25px
+}
+.style-26 {
+  color: #2b78e4;
+  font-size: .9375em;
+  margin-left: 3px
+}
+.style-4 {
+  background-color: #fff;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  box-shadow: 82px 82px 0 0 #000;
+  display: flex;
+  margin-left: 128px;
+  margin-top: 85px;
+  width: 327px;
+  height: 41px;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: center
+}
+.style-5 {
+  text-align: center;
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  height: 21px
+}
